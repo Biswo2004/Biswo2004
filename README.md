@@ -2,6 +2,12 @@
   <img width="900" height="400" src="https://github.com/Biswo2004/Biswo2004/blob/main/intro.gif"/>
 </div>
 
+---
+<div align="center">
+  Hii👋, I am Biswojit Bal
+</div>
+
+---
 # 💫 About Me:
 #### 🎓 **Currently Studying:** Flutter App Development & Generative AI at **Institute of Technical Education and Research (S 'O' A University), Bhubaneswar**.  <br>💡 **Looking to Collaborate On:** Open-source projects, AI innovations, sustainable technology solutions, and smart mobility systems.  <br>🔎 **Looking for Help With:** Guidance from industry experts to excel in my tech career and refine my experience.  <br>🚧 **Currently Working On:**  <br> 🚑 **Priority Route Mapping for Ambulances** – Reducing patient response time & saving lives with AI-powered live tracking.  <br> ⚡ **Smart Zebra Crossing Energy Generation** – Harnessing pedestrian movement to generate **sustainable energy** & AI-based traffic monitoring.<br>💬 **Ask Me About:** AI, Flutter, Open Source Development, Sustainable Tech, and Creative Problem Solving.  <br>⚡ **Fun Fact:** I've built many websites but never uploaded them to GitHub—because why settle for a few when I can create **THE ULTIMATE WEBSITE** with all the features imaginable? At this point, it’s less of a project and more of **a legend in the making**. Stay tuned. 🤖💻  <br>
 <div align="center">
